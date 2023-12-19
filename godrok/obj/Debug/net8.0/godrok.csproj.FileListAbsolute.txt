@@ -1,0 +1,14 @@
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\bin\Debug\net8.0\godrok.exe
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\bin\Debug\net8.0\godrok.deps.json
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\bin\Debug\net8.0\godrok.runtimeconfig.json
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\bin\Debug\net8.0\godrok.dll
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\bin\Debug\net8.0\godrok.pdb
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.AssemblyInfoInputs.cache
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.AssemblyInfo.cs
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.csproj.CoreCompileInputs.cache
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.dll
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\refint\godrok.dll
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.pdb
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\godrok.genruntimeconfig.cache
+C:\Users\kokenyesi.andor\Desktop\kokenyesiandor\2023.12.19\godrok\godrok\obj\Debug\net8.0\ref\godrok.dll
